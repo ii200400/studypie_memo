@@ -139,7 +139,7 @@ https://ko.khanacademy.org/math/linear-algebra/matrix-transformations#lin-trans-
   2. T(cA)=cT(A) -> Rot(cA)=cRot(A) (회전하고 늘리나 늘리고 회전하나 같을 것이다.)
   + 선형변환이기 때문에 기본적으로 벡터로 표현할 수 있는데\
   (0,0)을 기준으로 회전하는 회전 벡터는 아래와 같다.\
-  [[cos(0) -sin(0)]
+  [[cos(0) -sin(0)]\
    [cos(0)  sin(0)]]
 
 ## R3에서 x축을 중심으로 한 회전
@@ -148,8 +148,8 @@ https://ko.khanacademy.org/math/linear-algebra/matrix-transformations#lin-trans-
   1. 해당 축의 성분은 변하지 않는다. ex) x축으로 회전하면 x축상의 위치는 변하지 않는다.
   2. 다른 축들을 포함하는 평면 상에서의 벡터 회전과 같다.
   + 삼차원에서 x축을 기준으로 회전하는 회전벡터는 아래와 같다.\
-  [[1      0       0     ]
-   [0      cos(0) -sin(0)]
+  [[1      0       0     ]\
+   [0      cos(0) -sin(0)]\
    [0      cos(0)  sin(0)]]
 
 ## Unit vectors
@@ -172,10 +172,78 @@ https://ko.khanacademy.org/math/linear-algebra/matrix-transformations#lin-trans-
 
 + 정사영을 구하는 방법
   + 단위벡터가 u(u1,u2)로 정의가 가능한 직선으로 벡터V의 정사영은 아래의 벡터로 구할 수 있다.\
-  [[u1^2   u1\*u2]
+  [[u1^2   u1\*u2]\
    [u1\*u2 u2^2]]
  
- 
+# 변환과 행렬의 곱(3일차)
+
+https://ko.khanacademy.org/math/linear-algebra/matrix-transformations#composition-of-transformations
+
+중.고등학교 때 주입식교육만 받아서 머리가 굳었나 싶을정도로 어렵다.\
+나만 그런가 싶지만 그래도 열심히 공부하자!
+
+## 선형변환의 합성 1
+
++ 두 행렬의 합성(행렬 곱)
+  + 두 함수 S:X->Y, T:Y->Z가 있다고 할 때 ToS:X->Z라고 표기한다.
+  + 함수 S와 T가 선형변환의 조건을 모두 만족하면 합성으로 나온 함수 ToS도 선형변환의 조건에 만족한다.
+  + T의 행 성분의 갯수와 S의 열 성분의 갯수는 같아야 한다.\
+  만약 T의 크기가 nxm이면 S의 크기는 mxl 이여야 한다.
+
+## 선형변환의 합성 2
+
+위에서 정사영이나 회전벡터를 구할 때와 같이 단위벡터에 변환을 적용하여 합성된 함수(ToS)의 벡터를 구하면 그냥 S와 T를 의미하는 벡터를 행렬 곱한 것과 같다는 것을 알 수 있다.\
+즉, 행렬 곱 유도 과정을 알 수 있다.
+
+## 행렬곱 예제
+
++ 행렬 곱의 의미 : 두 함수를 하나로 묶어주어서 계산을 편리하게 한다.
+  + 때문에 행렬 곱은 곱하는 순서(정의역과 공역의 관계)가 중요하다. 
+
+## 행렬곱의 결합법칙
+
++ 행렬 곱은 결합법칙이 성립한다. (괄호가 어디에 들어가도 결과는 같다.)
+  + H(x)=Ax, G(x)=Bx, F(x)=Cx라고 가정하면\
+  (HoG)oF(x) = Ho(GoF)(x) = (HoGoF)(x) 모두 같다.
+  + (AB)C(x) = A(BC)(x) = ABC(x) 라고 생각해도 좋다.
++ 행렬 곱은 교환법칙이 성립하지 않는다.
+  + AB(x) /= BA(x)
+
+## 행렬곱의 분배법칙
+
++ 행렬 곱은 분배법칙이 성립한다.
+  + 행렬 A(kxm)과 행렬 B,C(mxn)이 있다고 가정할 때\
+  A(B+C) = AB+AC이다.
+  + 물론 A(B+C) \= (B+C)A 이다. 이건 교환법칙이다.
+
+# 영공간과 열공간 (4일차)
+
+https://ko.khanacademy.org/math/linear-algebra/vectors-and-spaces#null-column-space
+
+## 행렬 벡터의 곱
+
+
+
+## 행렬의 영공간이란?
+
+
+
+## 영공간 2 : 행렬의 영공간 계산하기
+
+
+
+## 영공간 3 : 선형 독립과의 관계
+
+
+
+## 행렬의 열공간
+
+
+
+## 영공간과 열공간의 기저
+
+
+
 ---
 
 [혼자한 간단한 실습](https://colab.research.google.com/drive/1UCxvfTVbW7h_u5LB0ULoi6HH8vDauhRU)
