@@ -37,15 +37,20 @@ https://ko.khanacademy.org/math/linear-algebra/vectors-and-spaces#dot-cross-prod
 
 ## 벡터의 내적과 벡터의 길이
 
-
++ 백터 내적(dot product) : 벡터 A와 B가 있을 때, A1\*B1+A2\*B2+...+An\*Bn 을 의미한다.
+ + A⋅B와 같이 표현한다. AxB는 벡터의 다른 연산을 의미한다.
+ + 결과 값은 **스칼라**이다.
+ + 스스로를 내적하면(A⋅A) 해당 벡터의 길이의 제곱과 같은 값이 나온다.
 
 ## 벡터 내적의 성질 증명
 
-
++ 벡터 내적의 성질
+ + 교환법칙, 분배법칙, 결합법칙이 성립한다.
 
 ## 코시-슈바르츠 부등식의 증명
 
-
++ 코시-슈바르츠(Cauchy–Schwarz inequality) : |X⋅Y| <= ||X||\*||Y|| (X,Y는 벡터이다.)
+ + |X⋅Y|과 ||X||\*||Y||이 같은 경우는 X=cY인 경우이다. (c는 스칼라이다.)
 
 ## 벡터의 삼각부등식
 
