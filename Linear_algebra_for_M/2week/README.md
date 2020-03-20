@@ -183,25 +183,33 @@ https://ko.khanacademy.org/math/linear-algebra/matrix-transformations#matrix-tra
 
 ## 행공간과 좌영공간
 
-
++ 좌영공간(Left null space) : m×n 행렬 A에 대하여 (A^t)y=0을 만족하는 Rm의 벡터 y들의 집합
+	+ N(A^t)로 표기된다.
++ 전치행렬의 계수는 원래 행렬의 계수와 같다.
 
 ## 좌영공간과 행공간의 시각화
 
-
++ 행공간의 임의의 벡터는 영공간(좌영공간)의 임의의 벡터와 직교한다.
++ C(A^t)와 N(A)이 직교하고 C(A)와 N(A^t)가 직교한다.
 
 ## rank(A) = rank(A의 전치행렬)
 
+솔직히 뭐라는지 잘 모르겠다..
 
++ rank(A^t)는 rref(A)의 pivot entry의 수 또는 와 같다.\
+rank(A) 와 dim(C(A)) 와 C(A)의 기저벡터의 수는 같다.\
+즉, rank(A)와 rank(A^t)는 같다.
 
 ## A의 전치행렬 x A 의 가역성 확인하기
 
-
+제목 그대로 (A^t)xA로 만든 행렬의 역행렬이 있는지 증명한다.\
+결국 (A^t)xA의 영공간에 존재할 수 있는 벡터가 영벡터 하나뿐 이라는 것을 증명하므로써 위의 가설이 참임을 보여준다.
 
 ---
 
 + A가 행렬이고 벡터 x와b가 있을 때, A(x)=b에 대해서
 	+ b=0 이면 동질 방정식(homogeneous equation)
 	+ b/=0 이면 비동질 방정식(inhomogeneous equation)
-+ 계수(rank) : 1차 독립인 행 벡터의 최대수
++ 계수(rank) : 선형독립인 행 벡터의 최대 수
 
 ---
