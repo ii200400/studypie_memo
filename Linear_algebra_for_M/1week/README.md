@@ -271,6 +271,10 @@ https://ratsgo.github.io/linear%20algebra/2017/05/20/spaces/
   + 선형독립을 가진 행렬은 가능한 해가 1개이다.
 + 기저(basis) : 공간을 생성하는 선형독립인 벡터집합
 
+# 실습 따라하기 (5일차)
+
+https://colab.research.google.com/drive/1CX8Z_vV62BG4HF9GdQTXi8kNaQsRweAd
+
 ---
 
 [혼자한 간단한 실습](https://colab.research.google.com/drive/1UCxvfTVbW7h_u5LB0ULoi6HH8vDauhRU)
