@@ -273,9 +273,13 @@ https://ratsgo.github.io/linear%20algebra/2017/05/20/spaces/
 
 # 실습 따라하기 (5일차)
 
-https://colab.research.google.com/drive/1CX8Z_vV62BG4HF9GdQTXi8kNaQsRweAd
+벡터, 행렬, 텐서, 행렬곱, 역행렬 계산을 텐서플로우 2.0버전으로 실습해본다.
+
+[실습코드](https://colab.research.google.com/drive/1CX8Z_vV62BG4HF9GdQTXi8kNaQsRweAd)
 
 ---
+
+위의 실습을 하기위해 텐서플로우 기본 개념을 익히는 실습 코드
 
 [혼자한 간단한 실습](https://colab.research.google.com/drive/1UCxvfTVbW7h_u5LB0ULoi6HH8vDauhRU)
 
