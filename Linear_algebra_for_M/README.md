@@ -139,31 +139,17 @@ Tensorflow 2.0을 활용한 선형대수학 실습 - 선형독립, 놈, 특별�
 
 Tensorflow 2.0을 활용한 선형대수학 실습 - 고유값 분해(Eigendecomposition)
 
-[실습코드(추가요망)]()
-
 ### 3일차
 
 Tensorflow 2.0을 활용한 선형대수학 실습 - 특이값 분해(Singular Value Decomposition)
-
-[실습코드(추가요망)]()
-
-참고 동영상 - [Singular Value Decomposition](https://www.youtube.com/watch?v=cq5qlYtnLoY)
-
 
 ### 4일차
 
 Tensorflow 2.0을 활용한 선형대수학 실습 - 무어-펜로즈 의사역행렬(Pseudo Inverse)
 
-[실습코드(추가요망)]()
-
-참고 블로그 - [의사역행렬(Pseudo inverse)](https://bskyvision.com/256)
- 
-
 ### 5일차
  
 Tensorflow 2.0을 활용한 선형대수학 실습 - 고유벡터, 고유값, SVD, Moor-Penrose
-
-[실습코드(추가요망)]()
 
 ### 6, 7일차
 
