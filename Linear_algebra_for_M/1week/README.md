@@ -277,7 +277,7 @@ https://ratsgo.github.io/linear%20algebra/2017/05/20/spaces/
 
 [실습코드](https://colab.research.google.com/drive/1CX8Z_vV62BG4HF9GdQTXi8kNaQsRweAd)
 
----
+# 개인적인 공부
 
 위의 실습을 하기위해 텐서플로우 기본 개념을 익히는 실습 코드
 
