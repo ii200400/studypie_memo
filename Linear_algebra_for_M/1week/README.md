@@ -273,7 +273,7 @@ https://ratsgo.github.io/linear%20algebra/2017/05/20/spaces/
 
 # 실습 - 벡터, 행렬, 텐서, 행렬곱, 역행렬 (5일차)
 
-벡터, 행렬, 텐서, 행렬곱, 역행렬 계산을 텐서플로우 2.0버전으로 실습해본다.
+Tensorflow 2.0을 활용하여 벡터, 행렬, 텐서, 행렬곱, 역행렬 실습을 해본다.
 
 [실습코드](https://colab.research.google.com/drive/1CX8Z_vV62BG4HF9GdQTXi8kNaQsRweAd)
 
