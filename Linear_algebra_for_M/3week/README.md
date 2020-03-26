@@ -38,26 +38,25 @@
 
 # 실습 - 고유값 분해(Eigendecomposition) (2일차)
 
-+ 고유값 분해(eigen decomposition) : 고유값과 고유벡터로부터 유도되는 고유값 행렬과 고유벡터 행렬에 의해 분해될수있는 행렬의 표현
-
 Tensorflow 2.0을 활용하여 고유값 분해(Eigendecomposition) 실습을 해본다.
 
-[실습코드](https://colab.research.google.com/drive/1r7s7tKVoylQXGldLridqX1MdBpQ3IJSa)
++ 고유값 분해(eigen decomposition) : 고유값과 고유벡터로부터 유도되는 고유값 행렬과 고유벡터 행렬에 의해 분해될수있는 행렬의 표현
 
 # 실습 - 특이값 분해(Singular Value Decomposition) (3일차)
 
 Tensorflow 2.0을 활용하여 특이값 분해(Singular Value Decomposition) 실습을 해본다.
 
-[실습코드(추가요망)]()
++ 특이값 분해(Singular Value Decomposition, SVD) : 행렬을 특정한 구조로 분해하는 방식
 
 참고 동영상 - [Singular Value Decomposition](https://www.youtube.com/watch?v=cq5qlYtnLoY)
-
 
 # 실습 - 무어-펜로즈 의사역행렬(Pseudo Inverse) (4일차)
 
 Tensorflow 2.0을 활용하여 무어-펜로즈 의사역행렬(Pseudo Inverse) 실습을 해본다.
 
-[실습코드(추가요망)]()
++ 무어-펜로즈 유사역행렬(Moore–Penrose pseudoinverse matrix) : 가역 행렬의 역행렬 연산을 일반화하는 연산이다.
+  + 모든 모양의 행렬에 대하여 정의되는 연산이다.
+  + 특이값 분해를 통해 계산할 수 있다.
 
 참고 블로그 - [의사역행렬(Pseudo inverse)](https://bskyvision.com/256)
 
@@ -65,7 +64,7 @@ Tensorflow 2.0을 활용하여 무어-펜로즈 의사역행렬(Pseudo Inverse) 
  
 Tensorflow 2.0을 활용하여 고유벡터, 고유값, SVD, Moor-Penrose 실습을 해본다.
 
-[실습코드(추가요망)]()
+[실습코드](https://colab.research.google.com/drive/1r7s7tKVoylQXGldLridqX1MdBpQ3IJSa)
 
 ---
 
