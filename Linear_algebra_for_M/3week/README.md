@@ -38,9 +38,11 @@
 
 # 실습 - 고유값 분해(Eigendecomposition) (2일차)
 
++ 고유값 분해(eigen decomposition) : 고유값과 고유벡터로부터 유도되는 고유값 행렬과 고유벡터 행렬에 의해 분해될수있는 행렬의 표현
+
 Tensorflow 2.0을 활용하여 고유값 분해(Eigendecomposition) 실습을 해본다.
 
-[실습코드(추가요망)]()
+[실습코드](https://colab.research.google.com/drive/1r7s7tKVoylQXGldLridqX1MdBpQ3IJSa)
 
 # 실습 - 특이값 분해(Singular Value Decomposition) (3일차)
 
@@ -64,3 +66,14 @@ Tensorflow 2.0을 활용하여 무어-펜로즈 의사역행렬(Pseudo Inverse) 
 Tensorflow 2.0을 활용하여 고유벡터, 고유값, SVD, Moor-Penrose 실습을 해본다.
 
 [실습코드(추가요망)]()
+
+---
+
+## 궁금한 점
+
++ 행렬식(determinant) : 정사각행렬에서만 정의되는 값으로, 행렬의 가역성을 판별해준다
+  + 행렬 A의 행렬식이라면 det(A)라고 표현한다.
+  + 고유값이나 고유벡터 증명에 사용된다.
+
+
+---
