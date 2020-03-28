@@ -60,11 +60,15 @@ Tensorflow 2.0을 활용하여 무어-펜로즈 의사역행렬(Pseudo Inverse) 
 
 참고 블로그 - [의사역행렬(Pseudo inverse)](https://bskyvision.com/256)
 
-# 실습 - 고유벡터, 고유값, SVD, Moor-Penrose (5일차)
- 
-Tensorflow 2.0을 활용하여 고유벡터, 고유값, SVD, Moor-Penrose 실습을 해본다.
-
 [실습코드](https://colab.research.google.com/drive/1r7s7tKVoylQXGldLridqX1MdBpQ3IJSa)
+
+# 실습 - SVD Image compression 및 Eigenface (5일차)
+ 
+Tensorflow 2.0을 활용하여 SVD Image compression과  실습을 해본다.
+
+[실습코드 - SVD Image compression](https://colab.research.google.com/drive/1KM4j26dCH9Zgq0oJkY7lg_CEsW6oQ5jN)
+
+[실습코드 - Eigenface](https://colab.research.google.com/drive/1K-gUxAEhasjuCOE4fbfDrEVNo0lVlI6i)
 
 ---
 
