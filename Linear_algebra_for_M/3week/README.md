@@ -1,5 +1,7 @@
 #  고유값, 고유벡터 (1일차)
 
+https://ko.khanacademy.org/math/linear-algebra/alternate-bases/alternate-bases/eigen-everything/v/linear-algebra-introduction-to-eigenvalues-and-eigenvectors
+
 ## 고유값과 고유벡터란?
 
 + 고유벡터(eigenvector) : 선형 변환이 일어난 후에도 방향이 변하지 않는, 영벡터가 아닌 벡터
@@ -60,7 +62,7 @@ Tensorflow 2.0을 활용하여 무어-펜로즈 의사역행렬(Pseudo Inverse) 
 
 참고 블로그 - [의사역행렬(Pseudo inverse)](https://bskyvision.com/256)
 
-[실습코드](https://colab.research.google.com/drive/1r7s7tKVoylQXGldLridqX1MdBpQ3IJSa)
+[2~4일차 실습코드](https://colab.research.google.com/drive/1r7s7tKVoylQXGldLridqX1MdBpQ3IJSa)
 
 # 실습 - SVD Image compression 및 Eigenface (5일차)
  
