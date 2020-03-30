@@ -1,72 +1,48 @@
-# 역수와 행렬식 구하기 (1일차)
+# 정사영 (1일차)
 
-https://ko.khanacademy.org/math/linear-algebra/matrix-transformations#inverse-of-matrices
+https://ko.khanacademy.org/math/linear-algebra/alternate-bases#orthogonal-projections
 
-## 역변환 판별하는 방법 추론하기
-
-
-
-## 역행렬 구하기 예제
+## 부분공간에 대한 정사영
 
 
 
-## 2x2 역행렬의 식
+## 평면에 대한 정사영 시각화
 
 
 
-## 3 x 3 행렬식
+## 부분공간에 대한 정사영이 선형변환이라는 것 확인하기
 
 
 
-## n x n 행렬식
+## 부분공간 정사영 행렬의 예제
 
 
 
-## 다른 행/열을 이용하여 행렬식 구하기
+## 정사영 행렬의 다른 예제
 
 
 
-## 사루스 법칙의 행렬식
+## 정사영은 부분공간에서 제일 가까운 벡터라는 것을 확인하기
 
 
 
-# 행렬식 심화 영상 시청 (2일차)
+# 정사영(약 45분)
 
-https://ko.khanacademy.org/math/linear-algebra/matrix-transformations#determinant-depth
+https://ko.khanacademy.org/math/linear-algebra/alternate-bases#orthogonal-projections
 
-## 행을 스칼라로 곱했을 때의 행렬식
-
-
-
-## 행의 스칼라 곱
+[참고 유투브 동영상](https://www.youtube.com/watch?v=jNwf-JUGWgg)
 
 
 
-## 행이 더해졌을 때의 행렬식
+## 최소제곱 근삿값
 
 
 
-## 복제된 행의 행렬식
+## 최소제곱 예제
 
 
 
-## 행연산 후의 행렬식
-
-
-
-## 상삼각행렬식
-
-
-
-## 간단한 4x4 행렬식
-
-
-
-## 행렬식과 평행사변형의 영역
-
-
-
-## 스케일 변환인자로써의 행렬식
+## 다른 최소제곱의 예제
 
 
 
