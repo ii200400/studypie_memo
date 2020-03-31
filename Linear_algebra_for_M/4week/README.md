@@ -4,7 +4,10 @@ https://ko.khanacademy.org/math/linear-algebra/alternate-bases#orthogonal-projec
 
 ## 부분공간에 대한 정사영
 
+계속 이전에 설명했다는 말이 많이 나오는데 이번 주도 이해하기는 글렸다..
 
++ 직교 여공간 (orthogonal complement) : 주어진 부분공간과 수직인 벡터들의 공간
++ 행렬 A의 영공간과 대칭행렬의 열공간은 직교여공간이다.
 
 ## 평면에 대한 정사영 시각화
 
