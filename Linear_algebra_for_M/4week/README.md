@@ -40,19 +40,18 @@ https://ko.khanacademy.org/math/linear-algebra/alternate-bases#orthogonal-projec
 
 [참고 유투브 동영상](https://www.youtube.com/watch?v=jNwf-JUGWgg)
 
-
-
 ## 최소제곱 근삿값
 
-
++ 행렬 A와 벡터 x, b에 대해 A(x)=b일 때, 해가 없다면 가장 근접한 해를 정사영으로 구할 수 있다.
+  + 위의 결과물을 최소제곱 근삿값이라고 부른다.
 
 ## 최소제곱 예제
 
-
+정사영을 활용하여 근삿값을 구하는 예제를 보여준다.
 
 ## 다른 최소제곱의 예제
 
-
+정사영을 활용하여 여러 점들과의 거리의 합이 가장 적게되는 선분을 찾는 예시를 보인다.
 
 # 실습 - PCA1 가우시안 분포의 PCA (3일차)
 
