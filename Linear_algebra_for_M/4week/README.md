@@ -55,18 +55,18 @@ https://ko.khanacademy.org/math/linear-algebra/alternate-bases#orthogonal-projec
 
 # 실습 - PCA1 가우시안 분포의 PCA (3일차)
 
-Tensorflow 2.0을 활용하여 고유값 분해(Eigendecomposition) 실습을 해본다.
+Tensorflow 2.0을 활용하여 가우시안 분포 실습을 해본다.
 
-[실습코드(추가요망)]()
+[실습코드](https://colab.research.google.com/drive/1-hdnbUCfOUYUj8kcAZ8ABN2StGXEqYQY)
 
 # 실습 - PCA2 암 판별 데이터 PCA 차원 축소 (4일차)
 
 Tensorflow 2.0을 활용하여 PCA2 암 판별 데이터 PCA 차원 축소 실습을 해본다.
 
-[실습코드(추가요망)]()
+[실습코드](https://colab.research.google.com/drive/1cAjjlQL8KRHIPQKuPo38VtmP-30d-pOJ)
 
 # 실습 - 주성분분석(PCA) (5일차)
 
 Tensorflow 2.0을 활용하여 주성분분석(PCA) 실습을 해본다.
 
-[실습코드(추가요망)]()
+[실습코드](https://colab.research.google.com/drive/1muGf4mY9A9bZE8wwS-0DH_YeqyL8lJzk)
